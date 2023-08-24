@@ -56,7 +56,7 @@ function App() {
         <span id="mins" />
         <span id="secs" />
         {' '}
-        until the Completo&apos; explosion
+        until the Completo explosion
       </h1>
       <div className="image_container"><img src="./assets/img/completo4.jpg" alt="Chile meme" /></div>
       <h3>You will be piscola&apos;d</h3>
