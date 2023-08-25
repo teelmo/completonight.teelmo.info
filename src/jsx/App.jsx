@@ -41,10 +41,10 @@ function App() {
   return (
     <div className="app">
       <Confetti width={window.innerWidth} height={window.innerHeight} recycle className="rain" />
-      <div className="image_container"><img src="./assets/img/completo1.jpg" alt="Chile meme" /></div>
       <h3>HOMBRES AND AMIGA&shy;RETTES!</h3>
-      <h1>COMPLETO NIGHT</h1>
-      <h3>Vamos! Ales! Andiamos!</h3>
+      <div className="image_container"><img src="./assets/img/completo1.jpg" alt="Chile meme" /></div>
+      <h1>COMP&shy;LETO NIGHT</h1>
+      <h3>Vamos! Ales! Andiamos! Let&apos;s mennään!</h3>
       <div className="image_container"><img src="./assets/img/completo2.jpg" alt="Chile meme" /></div>
       <h3>VIVA no mañana sino HOY!</h3>
       <div className="image_container"><img src="./assets/img/completo3.jpg" alt="Chile meme" /></div>
@@ -56,10 +56,12 @@ function App() {
         <span id="mins" />
         <span id="secs" />
         {' '}
-        until the Completo explosion
+        until the Completo explosion.
       </h1>
       <div className="image_container"><img src="./assets/img/completo4.jpg" alt="Chile meme" /></div>
-      <h3>You will be piscola&apos;d</h3>
+      <h3>And you will be piscola&apos;d</h3>
+      <div className="image_container"><img src="./assets/img/completo5.png" alt="Chile meme" /></div>
+      <h1>Friday 1.9.2023 is the day</h1>
     </div>
   );
 }
